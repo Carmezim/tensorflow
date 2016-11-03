@@ -26,7 +26,7 @@ if a value > 1 for any dimension of `rate` is specified.  In this case
     with "NC".
 *  <b>`num_outputs`</b>: integer, the number of output filters.
 *  <b>`kernel_size`</b>: a sequence of N positive integers specifying the spatial
-    dimensions of of the filters.  Can be a single integer to specify the same
+    dimensions of the filters.  Can be a single integer to specify the same
     value for all spatial dimensions.
 *  <b>`stride`</b>: a sequence of N positive integers specifying the stride at which to
     compute output.  Can be a single integer to specify the same value for all
